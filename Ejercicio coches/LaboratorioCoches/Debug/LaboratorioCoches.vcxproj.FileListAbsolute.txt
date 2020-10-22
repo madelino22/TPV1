@@ -1,0 +1,4 @@
+D:\Segundo\TPV\Ejercicios Tema 1\Ejercicio coches\LaboratorioCoches\Debug\LaboratorioCoches.exe
+D:\Segundo\TPV\Ejercicios Tema 1\Ejercicio coches\LaboratorioCoches\Debug\LaboratorioCoches.pdb
+C:\Users\lolit\OneDrive\Escritorio\Uni\2º Año\TPV\Ejercicios Tema 1\Ejercicio coches\LaboratorioCoches\Debug\LaboratorioCoches.exe
+C:\Users\lolit\OneDrive\Escritorio\Uni\2º Año\TPV\Ejercicios Tema 1\Ejercicio coches\LaboratorioCoches\Debug\LaboratorioCoches.pdb

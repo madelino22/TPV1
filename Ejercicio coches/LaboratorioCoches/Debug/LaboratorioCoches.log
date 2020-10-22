@@ -1,0 +1,13 @@
+﻿  LaboratorioCoches.cpp
+<<<<<<< HEAD
+C:\Users\lolit\OneDrive\Escritorio\Uni\2º Año\TPV\Ejercicios Tema 1\Ejercicio coches\LaboratorioCoches\LaboratorioCoches.cpp(68,18): warning C4101: 'Nombre': variable local sin referencia
+C:\Users\lolit\OneDrive\Escritorio\Uni\2º Año\TPV\Ejercicios Tema 1\Ejercicio coches\LaboratorioCoches\LaboratorioCoches.cpp(134,5): error C2039: "ListaAlquileres": no es un miembro de "ListaCoches"
+C:\Users\lolit\OneDrive\Escritorio\Uni\2º Año\TPV\Ejercicios Tema 1\Ejercicio coches\LaboratorioCoches\LaboratorioCoches.cpp(33): message : vea la declaración de 'ListaCoches'
+C:\Users\lolit\OneDrive\Escritorio\Uni\2º Año\TPV\Ejercicios Tema 1\Ejercicio coches\LaboratorioCoches\LaboratorioCoches.cpp(134,22): error C2065: 'listaAlquileres': identificador no declarado
+C:\Users\lolit\OneDrive\Escritorio\Uni\2º Año\TPV\Ejercicios Tema 1\Ejercicio coches\LaboratorioCoches\LaboratorioCoches.cpp(136,18): error C2100: direccionamiento indirecto no válido
+C:\Users\lolit\OneDrive\Escritorio\Uni\2º Año\TPV\Ejercicios Tema 1\Ejercicio coches\LaboratorioCoches\LaboratorioCoches.cpp(137,21): error C2065: 'listaAlquileres': identificador no declarado
+C:\Users\lolit\OneDrive\Escritorio\Uni\2º Año\TPV\Ejercicios Tema 1\Ejercicio coches\LaboratorioCoches\LaboratorioCoches.cpp(137,38): error C2100: direccionamiento indirecto no válido
+=======
+D:\Segundo\TPV\Ejercicios Tema 1\Ejercicio coches\LaboratorioCoches\LaboratorioCoches.cpp(71,18): warning C4101: 'Nombre': variable local sin referencia
+  LaboratorioCoches.vcxproj -> D:\Segundo\TPV\Ejercicios Tema 1\Ejercicio coches\LaboratorioCoches\Debug\LaboratorioCoches.exe
+>>>>>>> d03b28d3d469080883ef343b36c153ba3017033d
